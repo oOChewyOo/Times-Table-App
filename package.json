@@ -1,0 +1,12 @@
+{
+  "name": "times-table-builder",
+  "version": "1.0.0",
+  "description": "Interactive times table learning application",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'This is a static HTML application. Open index.html in a browser.'"
+  },
+  "keywords": ["education", "math", "times-tables"],
+  "author": "",
+  "license": "MIT"
+}
